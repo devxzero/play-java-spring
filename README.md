@@ -21,3 +21,4 @@ But thanks to the Spring-Guice snapshot project, we don't have to learn and writ
 * Another Play 2.4 solution can be found at [https://github.com/zarinfam/play24-guice-spring](https://github.com/zarinfam/play24-guice-spring), which has the Spring-Guice project code embedded and modified to refer to a Spring configuration class.
 * [https://github.com/jroper/play-spring](https://github.com/jroper/play-spring) (for Play 2.4) doesn't seem to work.
 * [https://github.com/jamesward/play-spring](https://github.com/jamesward/play-spring) (for Play 2.4) doesn't seem to work.
+* Limitations: those described at [https://github.com/spring-projects/spring-guice](https://github.com/spring-projects/spring-guice).
